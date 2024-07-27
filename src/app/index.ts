@@ -1,0 +1,8 @@
+export {default as DashboardController} from './dashboard'
+export {default as LoginController} from './login'
+export {default as ArrivalStatusController} from './arrival-status'
+export {default as BirthdaysController} from './birthdays'
+export {default as ExecutionPeriodController} from './execution-period'
+export {default as ExecutionStatusController} from './execution-status'
+export {default as LearningStatusController} from './learning-status'
+export {default as ReportsController} from './reports'
